@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/automationweb/static/css/main.c86d3271.css",
+    "main.js": "/automationweb/static/js/main.871e3ddc.js",
+    "static/js/453.3634301f.chunk.js": "/automationweb/static/js/453.3634301f.chunk.js",
+    "static/media/main.jpg": "/automationweb/static/media/main.f92e65aa73a11fc3bc74.jpg",
+    "static/media/contact-automation-happy-customers-bgs.webp": "/automationweb/static/media/contact-automation-happy-customers-bgs.441e2a3ca88c4e496d60.webp",
+    "index.html": "/automationweb/index.html",
+    "main.c86d3271.css.map": "/automationweb/static/css/main.c86d3271.css.map",
+    "main.871e3ddc.js.map": "/automationweb/static/js/main.871e3ddc.js.map",
+    "453.3634301f.chunk.js.map": "/automationweb/static/js/453.3634301f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c86d3271.css",
+    "static/js/main.871e3ddc.js"
+  ]
+}
